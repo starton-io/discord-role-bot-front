@@ -1,0 +1,7 @@
+{
+	"error-from-server": "An error {{statusCode}} occurred on server",
+	"error-from-client": "An error occurred on client",
+	"return-to-home": "Return to the homepage",
+	"error-404": "Error 404",
+	"page-not-found": "Page not found"
+}

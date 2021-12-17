@@ -1,0 +1,7 @@
+{
+	"error-from-server": "Une erreur {{statusCode}} s'est produite sur le serveur",
+	"error-from-client": "Une erreur s'est produite sur le client",
+	"return-to-home": "Retour à la page d'accueil",
+	"error-404": "Erreur 404",
+	"page-not-found": "Page non trouvée"
+}
